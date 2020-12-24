@@ -2,7 +2,7 @@
 
 ## Descrição
 
-### Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js aplicando conceitos de processamento assíncrono de tarefas no Node.js com Redis.
+### Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background, aplicando conceitos de processamento assíncrono de tarefas no Node.js com Redis.
 
 ![](https://img.shields.io/github/stars/pleonardodp12/tasks-background-node.svg) ![](https://img.shields.io/github/forks/pleonardodp12/tasks-background-node.svg) ![](https://img.shields.io/github/issues/pleonardodp12/tasks-background-node.svg)
 
